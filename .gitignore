@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+echo AllAirthmate/ >> .gitignore
+echo new_dwh_repo/ >> .gitignore
